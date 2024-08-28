@@ -1,3 +1,4 @@
 Hey folk!
 
-Welcome to the world!!!!!!
+Introduction to git and github
+
